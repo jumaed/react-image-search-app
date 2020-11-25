@@ -2,7 +2,7 @@
 
 This is a simple responsive image search app built with React.js using Unsplash API. Modal is used to show the large size image by clicking on it.
 
-#### Live Demo:  [https://jumaed-react-img.netlify.app](https://jumaed-react-img.netlify.app/)
+### Live Demo:  [https://jumaed-react-img.netlify.app](https://jumaed-react-img.netlify.app/)
 
 
 
@@ -49,9 +49,9 @@ npm run build:prod && npm run start:prod
 
 
 
-## You can reach out 😊😊
+## Reach out to Me 😊😊
 
 Feel free to contact me about the problems. I will try to help as much as I can 😉
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjumaed)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjumaed/)  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jumaed)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkanozbek1995@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjumaed)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjumaed/)  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jumaed)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumaed21@gmail.com)
 
